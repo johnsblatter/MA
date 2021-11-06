@@ -13,4 +13,4 @@ jobs:
             uses: MeterianHQ/meterian-github-action@v1.0.8
             with:
                 oss: true
-                cli_args: "--min-security=75 --min-stability=80 --min-licensing-90"
+                cli_args: "--min-security=75 --min-stability=80 --min-licensing=90"
