@@ -1,5 +1,9 @@
 # MA
 
+[![security status](https://www.meterian.io/badge/gh/johnsblatter/MA/security)](https://www.meterian.io/report/gh/johnsblatter/MA)
+[![stability status](https://www.meterian.io/badge/gh/johnsblatter/MA/stability)](https://www.meterian.io/report/gh/johnsblatter/MA)
+[![licensing status](https://www.meterian.io/badge/gh/johnsblatter/MA/licensing)](https://www.meterian.io/report/gh/johnsblatter/MA)
+
 Mobile Applications
 
 npm install html5shiv
